@@ -4,7 +4,7 @@
 	<title>MySQL Table Viewer App Service</title>
 </head>
 <body>
-	<h1>MySQL Table Viewer</h1>
+	<h1>MySQL Table Viewer App Service</h1>
 	<?php
 		// Define database connection variables
 		$servername = "mysql-azure-project.mysql.database.azure.com";
